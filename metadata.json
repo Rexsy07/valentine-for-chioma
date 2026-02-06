@@ -1,0 +1,7 @@
+{
+  "name": "Chioma's Valentine Surprise",
+  "description": "A playful and romantic interactive Valentine proposal experience personalized for Chioma, featuring a mischievous 'No' button and a celebratory transition.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
