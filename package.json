@@ -1,13 +1,12 @@
 {
-  "name": "chioma's-valentine-surprise",
-  "private": true,
+  "name": "valentine-for-chioma",
   "version": "0.0.0",
-  "type": "module",
+  "private": false,
+  "homepage": "https://Rexsy07.github.io/valentine-for-chioma",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "lucide-react": "^0.563.0",
@@ -16,9 +15,8 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
-    "@vitejs/plugin-react": "^5.0.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
-  },
-  "homepage": "https://Rexsy07.github.io/valentine-for-chioma"
+    "@vitejs/plugin-react": "^5.1.3",
+    "typescript": "~5.8.3",
+    "vite": "^6.4.1"
+  }
 }
