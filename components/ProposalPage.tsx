@@ -9,13 +9,15 @@ interface ProposalPageProps {
 
 const NO_MESSAGES = [
   "Hmm… that was suspicious 😏",
-  "Chioma please 😭",
+  "You know you want it 💘",
   "At this point you’re just flirting",
   "Wrong button! Try again! ❤️",
   "Is that your final answer? 🤨",
   "I think your finger slipped...",
   "Are you testing my patience? 😂",
   "Stop playing hard to get! 💘",
+  "My sweeetheart, that's not the answer 😏",
+  "oya i'll give you pepsi if you click yes 😌",
   "Nice try, but I don't see a 'No' here."
 ];
 
